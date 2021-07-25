@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "953286405256",
+    "project_id": "note-app-fcc57",
+    "storage_bucket": "note-app-fcc57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953286405256:android:0e946ea4fda51f1f98c33d",
+        "android_client_info": {
+          "package_name": "com.tsnoteapptv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953286405256-rh1a7bq3p42lsmbi9vjlqoaddcf6qcpo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tsnoteapptv",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "953286405256-hfb9f72sebtojg00tpl6eub6j0fdbv2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPflQuALy49vod5ICR91_RkK7ZcNmSh44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953286405256-hfb9f72sebtojg00tpl6eub6j0fdbv2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
